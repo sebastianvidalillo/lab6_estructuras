@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<project>
+  <fileVersion>2</fileVersion>
+  <fileChecksum>3869355013</fileChecksum>
+  <configuration>
+    <name>Debug</name>
+    <outputs>
+      <file>$PROJ_DIR$\adc.c</file>
+      <file>$PROJ_DIR$\keyboard.c</file>
+      <file>$PROJ_DIR$\display.c</file>
+      <file>$PROJ_DIR$\prog6_1.c</file>
+      <file>$PROJ_DIR$\osc.c</file>
+      <file>$TOOLKIT_DIR$\inc\clib\stdio.h</file>
+      <file>$PROJ_DIR$\adc.h</file>
+      <file>$PROJ_DIR$\tic.c</file>
+      <file>$PROJ_DIR$\Debug\Obj\osc.r43</file>
+      <file>$TOOLKIT_DIR$\lib\clib\cl430f.r43</file>
+      <file>$TOOLKIT_DIR$\inc\msp430x16x.h</file>
+      <file>$PROJ_DIR$\Debug\Exe\Laboratorio6segundointento.d43</file>
+      <file>$TOOLKIT_DIR$\inc\clib\sysmac.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\osc.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\tic.r43</file>
+      <file>$PROJ_DIR$\keyboard.h</file>
+      <file>$PROJ_DIR$\uart.c</file>
+      <file>$PROJ_DIR$\Debug\Obj\keyboard.r43</file>
+      <file>$PROJ_DIR$\Debug\Obj\display.pbi</file>
+      <file>$PROJ_DIR$\display.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\uart.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\adc.r43</file>
+      <file>$TOOLKIT_DIR$\inc\in430.h</file>
+      <file>$PROJ_DIR$\uart.h</file>
+      <file>$TOOLKIT_DIR$\inc\intrinsics.h</file>
+      <file>$PROJ_DIR$\msp430_version.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\prog6_1.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\Laboratorio6segundointento.pbd</file>
+      <file>$PROJ_DIR$\Debug\Obj\display.r43</file>
+      <file>$TOOLKIT_DIR$\config\multiplier.xcl</file>
+      <file>$TOOLKIT_DIR$\config\lnk430F1612.xcl</file>
+      <file>$PROJ_DIR$\osc.h</file>
+      <file>$TOOLKIT_DIR$\inc\clib\stdarg.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\keyboard.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\prog6_1.r43</file>
+      <file>$PROJ_DIR$\tic.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\tic.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\adc.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\uart.r43</file>
+      <file>$PROJ_DIR$\Debug\Exe\Laboratorio6segundointento.ulp</file>
+    </outputs>
+    <file>
+      <name>$PROJ_DIR$\adc.c</name>
+      <outputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 21</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 37</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 6 25 10 22 24</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 6 25 10 22 24</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\keyboard.c</name>
+      <outputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 17</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 33</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 5 32 12 19 25 10 22 24 15 23</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 5 32 12 19 25 10 22 24 15 23</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\display.c</name>
+      <outputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 28</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 18</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 19 25 10 22 24</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 19 25 10 22 24</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\prog6_1.c</name>
+      <outputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 34</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 26</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 25 10 22 24 23 35 19 15 31 5 32 12</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 25 10 22 24 23 35 19 15 31 5 32 12</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\osc.c</name>
+      <outputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 8</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 13</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 25 10 22 24 31</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 25 10 22 24 31</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>[ROOT_NODE]</name>
+      <outputs>
+        <tool>
+          <name>ULP430</name>
+          <file> 39</file>
+        </tool>
+        <tool>
+          <name>XLINK</name>
+          <file> 11</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\tic.c</name>
+      <outputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 14</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 36</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 35 25 10 22 24 15 23 19 5 32 12</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 35 25 10 22 24 15 23 19 5 32 12</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Debug\Exe\Laboratorio6segundointento.d43</name>
+      <inputs>
+        <tool>
+          <name>XLINK</name>
+          <file> 30 29 21 28 17 8 34 14 38 9</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\uart.c</name>
+      <outputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 38</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 20</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 25 10 22 24 23 19 5 32 12 35</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 25 10 22 24 23 19 5 32 12 35</file>
+        </tool>
+      </inputs>
+    </file>
+  </configuration>
+  <configuration>
+    <name>Release</name>
+    <outputs/>
+    <forcedrebuild>
+      <name>[MULTI_TOOL]</name>
+      <tool>XLINK</tool>
+    </forcedrebuild>
+  </configuration>
+</project>
+
+
